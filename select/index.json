@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Hourglass",
+  "base_artist": "Zedd",
+  "createdAt": "2026-02-19T05:34:36.880300Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hourglass - Feat. Mr. Kane, Goldie Loc",
+      "artist": "Snoop Dogg",
+      "has_synced": true,
+      "path": "select/01_Hourglass_-_Feat._Mr._Kane,_Goldie_Loc_Snoop_Dogg.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hourglass (feat. Mr. Kane and Goldie Loc)",
+      "artist": "Snoop Dogg",
+      "has_synced": true,
+      "path": "select/02_Hourglass_(feat._Mr._Kane_and_Goldie_Loc)_Snoop_Dogg.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hourglass",
+      "artist": "Shelley Harland",
+      "has_synced": false,
+      "path": "select/03_Hourglass_Shelley_Harland.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hourglass",
+      "artist": "Cunninlynguists",
+      "has_synced": false,
+      "path": "select/04_Hourglass_Cunninlynguists.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hourglass",
+      "artist": "Disclosure feat. LION BABE",
+      "has_synced": true,
+      "path": "select/05_Hourglass_Disclosure_feat._LION_BABE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hourglass",
+      "artist": "Squeeze",
+      "has_synced": false,
+      "path": "select/06_Hourglass_Squeeze.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hourglass",
+      "artist": "Gravenhurst",
+      "has_synced": false,
+      "path": "select/07_Hourglass_Gravenhurst.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hourglass",
+      "artist": "Queensrÿche",
+      "has_synced": true,
+      "path": "select/08_Hourglass_Queensrÿche.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Hourglass",
+      "artist": "Savatage",
+      "has_synced": true,
+      "path": "select/09_The_Hourglass_Savatage.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Hourglass",
+      "artist": "Savatage",
+      "has_synced": true,
+      "path": "select/10_The_Hourglass_Savatage.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Shattering The Hourglass",
+      "artist": "Deep Sea Diver",
+      "has_synced": true,
+      "path": "select/11_Shattering_The_Hourglass_Deep_Sea_Diver.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hourglass",
+      "artist": "Clannad",
+      "has_synced": false,
+      "path": "select/12_Hourglass_Clannad.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hourglass",
+      "artist": "Lamb of God",
+      "has_synced": true,
+      "path": "select/13_Hourglass_Lamb_of_God.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hourglass",
+      "artist": "Zedd",
+      "has_synced": false,
+      "path": "select/pl_01_Hourglass_Zedd.txt"
+    }
+  ]
+}
